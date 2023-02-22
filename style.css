@@ -1,0 +1,58 @@
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    margin:auto;
+    margin-top: -60px;
+}
+
+#boxpara{
+    text-align: center;
+    padding-top: 23px;
+    font-size: 45px;
+    margin-top: 12px;
+}
+    
+
+#check{
+    margin-left: 75px;
+}
+
+input{
+    text-align: center;
+    font-size: 45px;
+
+}
+#guessid{
+    height: 100px;
+    width: 200px;
+    background-color:rgb(1, 31, 23);
+    border: 2px solid white;
+    color: white;
+    
+}
+.leftright{
+    display: flex;
+    gap: 290px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.right{
+    color: white;
+    font-weight: bolder;
+    margin-top: -55px;
+}
+.message{
+    font-size: 33px;
+}
+#playAgain{
+    height: 60px;
+    width: 100px;
+    margin-top: 9%;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+}
