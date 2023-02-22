@@ -1,4 +1,4 @@
-let initialValue=100;
+        let initialValue=100;
         let highscore=null;
 
         let random=generateRandomNumber(100);
